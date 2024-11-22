@@ -1,5 +1,5 @@
 ## Hi there 👋🏻
-<img src="https://image.kmib.co.kr/online_image/2014/1103/201411030916_61130008820668_1.jpg" width="300" height="300" alt="Hello Kitty">
+
 
 ---
 
@@ -43,5 +43,6 @@
 ---
 
 ### 📌 주요 프로젝트
+- **[study-together](https://github.com/helloworld-bedev/study-together)** : 학습도우미 팀 프로젝트 (유저,포인트 로직담당) 
 - **[WeatherDiary](https://github.com/heekuukuu/WeatherDiary)**: 날씨 정보를 기록하고 공유하는 웹 애플리케이션 ☀️⚡️❄️
 - **[Apartment](https://github.com/heekuukuu/apartment)**: 아파트 관리 시스템 🏢
